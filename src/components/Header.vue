@@ -25,9 +25,9 @@
              </router-link>
            </li>
            <li class="md:mr-10">
-             <a href="" id="/about" class="hover:text-white hover:border-b hover:pb-0.5">
+             <router-link to="/" class="hover:text-white hover:border-b hover:pb-0.5">
                About Us
-             </a>
+             </router-link>
            </li>
            <li class="md:mr-10">
              <router-link to="" class="hover:text-white hover:border-b hover:pb-0.5">
