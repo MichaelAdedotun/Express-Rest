@@ -10,6 +10,8 @@ export default {
         'nav': '#4F594A',
         'book-now': '#B5BFAAED',
         'button': '#687363F2',
+        'test': '#9EA69438',
+        'need': '#B5BFAAFC',
       },
     },
   },
