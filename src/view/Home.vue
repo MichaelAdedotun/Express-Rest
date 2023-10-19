@@ -3,13 +3,15 @@
 </script>
 
 <template>
-      <section class="bg-[url('/src/assets/express.jpg')] bg-cover bg-center bg-no-repeat min-h-screen">
-          <div class="px-20 py-56 animate-pulse">
-            <h2 class="text-white text-4xl md:text-5xl font-['Playfair'] font-extralight">
-                Welcome To <br>
-                <span class="font-semibold font-['Display'] text-5xl md:text-6xl">Express Rest</span>
-            </h2>
-          </div>
+      <section class="bg-[url('/src/assets/express.jpg')] bg-cover bg-center bg-no-repeat text-white">
+        <div class="px-14 md:px-20 py-56 animate-pulse">
+          <h2 class="text-3xl md:text-4xl font-['Playfair'] font-light">
+            Welcome To <br>
+            <span class="text-4xl md:text-5xl font-semibold">
+              Express Rest
+            </span>
+          </h2>
+        </div>
       </section>
 
 <!--About us section-->
@@ -54,20 +56,20 @@
           customers based on their pocket and preference
         </p>
         <div class="flex flex-col gap-5 items-start md:flex-row my-4">
-          <div class="md:w-1/3">
-            <img src="/src/assets/single-room.jpg" class="h-64 w-full" alt="single room image">
+          <div class="w-full md:w-1/3">
+            <img src="/src/assets/single-room.jpg" class="h-64 w-full md:w-80" alt="single room image">
             <p class="text-center">
               Single Room
             </p>
           </div>
-          <div class="md:w-1/3">
-            <img src="/src/assets/double-room.jpg" class="h-64 w-full" alt="double room image">
+          <div class="w-full md:w-1/3">
+            <img src="/src/assets/double-room.jpg" class="h-64 w-full md:w-80" alt="double room image">
             <p class="text-center">
               Double Room
             </p>
           </div>
-          <div class="md:w-1/3">
-            <img src="/src/assets/suite.jpg" class="h-64 w-full" alt="suite room image">
+          <div class="w-full md:w-1/3">
+            <img src="/src/assets/suite.jpg" class="h-64 w-full md:w-80" alt="suite room image">
             <p class="text-center">
               Suite
             </p>
@@ -91,7 +93,7 @@
     </p>
     <div class="flex flex-col gap-5 md:flex-row my-5">
       <div class="md:w-1/3">
-        <img src="/src/assets/spa.jpg" class="h-64 w-full md:w-80" alt="">
+        <img src="/src/assets/spa.jpg" class="h-64 w-96 md:w-80" alt="">
         <p class="text-center">
           Spa
         </p>
@@ -117,7 +119,7 @@
   </section>
 
 <!--Testimonial section-->
-    <section class="px-16 py-10 md:px-20 flex flex-col items-center text-nav">
+    <section class="px-12 py-10 md:px-20 flex flex-col items-center text-nav">
       <div class="mb-20">
         <h2 class="text-3xl">
           TESTIMONIALS
@@ -152,7 +154,7 @@
           </div>
         </div>
         <div class="w-full mb-10">
-          <p class="px-20 text-sm text-center">
+          <p class="px-14 md:px-20 text-sm text-center">
             To get social media testimonials like these, keep your customers
             engaged with your social media accounts by posting regularly yourself.
             Customer service was top notch and i will give it to details and work put in
@@ -174,13 +176,13 @@
       </div>
     </section>
 
-    <section class="flex justify-between items-center bg-need px-20 py-5">
-        <div class="text-white text-xl">
+    <section class="flex justify-between items-center bg-need px-12 md:px-20 py-5">
+        <div class="text-white text-lg md:text-xl">
           Need to make enquiries?
         </div>
       <button class="bg-button py-2 px-6">
         <router-link to="" class="text-white rounded-sm text-sm">
-          View All
+          Contact Us
         </router-link>
       </button>
     </section>
