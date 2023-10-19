@@ -3,12 +3,12 @@
 </script>
 
 <template>
-    <section class="p-20 bg-nav flex justify-between text-book-now">
+    <section class="bg-nav flex flex-col gap-10 text-book-now p-12 md:flex-row md:justify-between md:p-20 ">
       <div>
-        <h1 class="text-2xl text-white font-['Futura']">
+        <h1 class="text-3xl md:text-2xl text-white font-['Futura']">
           Express Rest
         </h1>
-        <ul class="flex mt-8 gap-2">
+        <ul class="flex mt-5 md:mt-8 gap-2">
           <li>
             <a href="">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="19" viewBox="0 0 24 19" fill="none">
@@ -78,7 +78,7 @@
         <h2 class="text-white text-lg mb-5">
           Subscribe To Our Newsletter
         </h2>
-        <div class="flex justify-center items-center">
+        <div class="flex justify-start">
           <form action="">
             <input type="email" placeholder="Your email address" class="bg-book-now text-white py-1 px-3 placeholder-white placeholder:text-sm">
           </form>
