@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <section class="bg-nav flex flex-col gap-10 text-book-now p-12 md:flex-row md:justify-between md:p-20 ">
+    <section class="bg-nav flex flex-col gap-10 text-book-now px-8 py-12 md:flex-row md:justify-between md:p-20">
       <div>
         <h1 class="text-3xl md:text-2xl text-white font-['Futura']">
           Express Rest
@@ -80,10 +80,10 @@
         </h2>
         <div class="flex justify-start">
           <form action="">
-            <input type="email" placeholder="Your email address" class="bg-book-now text-white py-1 px-3 placeholder-white placeholder:text-sm">
+            <input type="email" placeholder="Your email address" class="bg-book-now text-white py-1 pl-3 placeholder-white placeholder:text-sm">
           </form>
           <div class="bg-white p-0.5">
-            <button class="bg-button py-0.5 px-5">
+            <button class="bg-button py-0.5 px-2 md:px-5">
               <router-link to="" class="text-white rounded-sm text-sm">
                 Subscribe
               </router-link>
