@@ -51,7 +51,7 @@
            </li>
          </ul>
 
-         <div class="text-3xl md:hidden" @click="open">
+         <div class="text-3xl text-white md:hidden" @click="open">
            <button><i class="fa-solid fa-bars"></i></button>
          </div>
        </nav>
