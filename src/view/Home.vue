@@ -4,7 +4,7 @@
 
 <template>
       <section class="bg-[url('/src/assets/express.jpg')] bg-cover bg-center bg-no-repeat text-white">
-        <div class="px-14 md:px-20 py-56 animate-pulse">
+        <div class="px-12 md:px-20 py-56 animate-pulse">
           <h2 class="text-3xl md:text-4xl font-['Playfair'] font-light">
             Welcome To <br>
             <span class="text-4xl md:text-5xl font-semibold">
@@ -15,7 +15,7 @@
       </section>
 
 <!--About us section-->
-      <section class="flex flex-col-reverse gap-20 md:gap-16 text-nav p-10 md:p-16 md:flex-row lg:p-20">
+      <section class="flex flex-col-reverse gap-20 md:gap-16 text-nav px-8 py-10 md:p-16 md:flex-row lg:p-20">
         <div class="w-full md:w-1/2">
           <img src="/src/assets/about.jpg" class="h-full" alt="about image">
         </div>
@@ -47,7 +47,7 @@
       </section>
   
 <!--Our room section-->
-    <section class="flex flex-col p-10 items-center text-nav md:px-16 md:py-10 lg:px-20">
+    <section class="flex flex-col px-8 py-10 items-center text-nav md:px-16 lg:px-20">
         <h2 class="text-3xl">
           OUR ROOMS
         </h2>
@@ -83,7 +83,7 @@
     </section>
 
 <!--Our Facilities section-->
-    <section class="flex flex-col items-center p-10 text-nav  md:p-16 lg:py-10 lg:px-20">
+    <section class="flex flex-col items-center px-8 py-10 text-nav  md:p-16 lg:py-10 lg:px-20">
     <h2 class="text-3xl">
       FACILITIES
     </h2>
@@ -119,7 +119,7 @@
   </section>
 
 <!--Testimonial section-->
-    <section class="px-12 py-10 md:px-20 flex flex-col items-center text-nav">
+    <section class="px-8 py-10 md:px-20 flex flex-col items-center text-nav">
       <div class="mb-20">
         <h2 class="text-3xl">
           TESTIMONIALS
@@ -177,10 +177,10 @@
     </section>
 
     <section class="flex justify-between items-center bg-need px-12 md:px-20 py-5">
-        <div class="text-white text-lg md:text-xl">
+        <div class="text-white text-sm md:text-xl">
           Need to make enquiries?
         </div>
-      <button class="bg-button py-2 px-6">
+      <button class="bg-button py-1 px-3 md:py-2 md:px-5">
         <router-link to="" class="text-white rounded-sm text-sm">
           Contact Us
         </router-link>
