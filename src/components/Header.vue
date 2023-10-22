@@ -1,6 +1,6 @@
 <template>
 
-     <header class=" bg-nav sticky top-0 px-10 py-5
+     <header class=" bg-nav sticky top-0 px-8 py-5 z-10
                     md:px-8
                     lg:px-14
                     xl:px-20
