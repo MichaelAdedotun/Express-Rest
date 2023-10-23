@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <section class="bg-[url('/src/assets/room.jpg')] bg-cover bg-center bg-no-repeat text-white">
+  <section class="bg-[url('https://drive.google.com/uc?id=1R9yLiM1a0IDY5dDU2E9DWyrgoxqF_UgM')] bg-cover bg-center bg-no-repeat text-white">
     <div class="px-14 md:px-12 py-56 animate-pulse">
       <h2 class="text-4xl md:text-5xl font-['Playfair'] font-semibold">
         Our Rooms Have <br>
@@ -28,7 +28,7 @@
 
     <div class="grid gap-8 md:gap-4 xl:gap-6 md:grid-cols-3">
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room1.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1tdbnPuyXRVinvvKtlAhvEXPs3NMZgQLL" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Basic</h2>
           <ul class="my-5">
@@ -76,7 +76,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room2.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=12FsyqWyf9Rgi3tu0HLSQfhSsSGWGyJh3" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Standard</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -160,7 +160,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room3.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1UHkY0-vzm8Or6lr744zpbUM3a5-nkokj" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Classic</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -226,7 +226,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room4.jpg" class="w-full h-52 md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1BlkOL-xcrOtlh_KpzXwdZaCmcJpD9VG6" class="w-full h-52 md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Emerald</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -283,7 +283,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room5.jpg" class="w-full h-52 md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1wLiCwwHKEsMm34Yo1Z8AerW14TTdoGr1" class="w-full h-52 md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Supreme</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -358,7 +358,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room6.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1gWyD8sFIf2p4X74AfcTJ_uZ2lgkO3xPf" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Deluxe</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -442,7 +442,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room7.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1REdR3ICo1pPdfFniILnvLZGXOdabTxFY" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Club Suite</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -499,7 +499,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room8.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1xaPVpiwRayTpVXcQJUYj6D6KKfsFE-dg" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Executive Suite</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -583,7 +583,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="/src/assets/Rooms/room9.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=11AKn46sOYE5qEKdaFwikxMY2LY7qSMKS" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Diplomatic Suite</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
