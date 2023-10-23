@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <section class="bg-[url('/src/assets/facility.jpg')] bg-cover bg-center bg-no-repeat text-white">
+  <section class="bg-[url('https://drive.google.com/uc?id=1xbVDCFqeJiTS-j5QoQWQRpknlHOtZsNT')] bg-cover bg-center bg-no-repeat text-white">
     <div class="px-14 md:px-20 py-56 animate-pulse">
       <h2 class="text-4xl md:text-5xl font-['Playfair'] font-semibold">
         The Best Facilities <br>
@@ -15,7 +15,7 @@
     </div>
   </section>
 
-  <section class="px-14 py-20">
+  <section class="px-14 md:px-20 py-20">
     <div class="mb-10 text-nav">
       <h2 class="text-3xl">
         Facilities
@@ -28,55 +28,55 @@
 
     <div class="grid gap-5 md:grid-cols-3 text-nav">
       <div class="">
-        <img src="/src/assets/Facilities/basketball.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1NsAAdMILqkFWq3cG9g0QZMH8IaUptVfA" class="w-full md:h-64" alt="">
         <p class="text-center">
           Basketball Court
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/wifi.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1d1XnePvLwedtQzl06WA7B3gbkwCKT_Lb" class="w-full md:h-64" alt="">
         <p class="text-center">
           Free Internet
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/spa.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1337oNk68idfYK3LV06xVPm3mBGvNftu5" class="w-full md:h-64" alt="">
         <p class="text-center">
           Spa
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/conference-room.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1U_4X2-BYv8qvmxhwXpvTnSTnTNGZz1YD" class="w-full md:h-64" alt="">
         <p class="text-center">
           Conference Room
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/bar.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1kEkjjjamogtepOGGs98eyC15-4cXYagM" class="w-full md:h-64" alt="">
         <p class="text-center">
           Bar
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/parking-lot.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1LGc5q-vty3-tD63gRFdlmQCV3gEbLqwA" class="w-full md:h-64" alt="">
         <p class="text-center">
           Parking Lot
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/swimming-pool.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1xp7XqWkJSt_ei6HBOzu7j6bL1iqUTRGP" class="w-full md:h-64" alt="">
         <p class="text-center">
           Swimming Pool
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/gym.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1YLr16dHhebBn6qWiXIenZTvmCMs5THSr" class="w-full md:h-64" alt="">
         <p class="text-center">
           Gym
         </p>
       </div>
       <div class="">
-        <img src="/src/assets/Facilities/golf.jpg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1dH0Np1arp-D6Rfel96d_GwZ5CmHAUISa" class="w-full md:h-64" alt="">
         <p class="text-center">
           Golf Course
         </p>
