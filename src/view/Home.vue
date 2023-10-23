@@ -3,7 +3,7 @@
 </script>
 
 <template>
-      <section class="bg-[url('/src/assets/express.jpg')] bg-cover bg-center bg-no-repeat text-white">
+      <section class="bg-[url('https://drive.google.com/uc?id=1ePUphcXYkdYUQ5rsM_EI8eQSyQrERRd8')] bg-cover bg-center bg-no-repeat text-white">
         <div class="px-12 md:px-20 py-56 animate-pulse">
           <h2 class="text-3xl md:text-4xl font-['Playfair'] font-light">
             Welcome To <br>
@@ -15,9 +15,9 @@
       </section>
 
 <!--About us section-->
-      <section class="flex flex-col-reverse gap-20 md:gap-16 text-nav px-8 py-10 md:p-16 md:flex-row lg:p-20">
+      <section class="flex flex-col-reverse gap-20 h-full md:gap-16 text-nav px-8 py-10 md:p-16 md:flex-row lg:p-20">
         <div class="w-full md:w-1/2">
-          <img src="/src/assets/about.jpg" class="h-full" alt="about image">
+          <img src="https://drive.google.com/uc?id=1mbKSq45u6MFkKBcNKg--dhbZxni7mbUG" class="h-full" alt="about image">
         </div>
         <div class="md:w-1/2">
           <h2 class="mb-10 text-5xl font-['Lexend Deca'] font-semibold md:mb-5 md:text-4xl xl:text-5xl xl:mb-10">
@@ -57,19 +57,19 @@
         </p>
         <div class="flex flex-col gap-5 items-start md:flex-row my-4">
           <div class="w-full md:w-1/3">
-            <img src="/src/assets/single-room.jpg" class="h-64 w-full md:w-80" alt="single room image">
+            <img src="https://drive.google.com/uc?id=1dzUcc4unvHEbMy-dTptRiEXEuZL1mbJA" class="h-64 w-full md:w-80" alt="single room image">
             <p class="text-center">
               Single Room
             </p>
           </div>
           <div class="w-full md:w-1/3">
-            <img src="/src/assets/double-room.jpg" class="h-64 w-full md:w-80" alt="double room image">
+            <img src="https://drive.google.com/uc?id=1-RzqSk5qWJ3tf097gIPm3jGrU8uuxRxy" class="h-64 w-full md:w-80" alt="double room image">
             <p class="text-center">
               Double Room
             </p>
           </div>
           <div class="w-full md:w-1/3">
-            <img src="/src/assets/suite.jpg" class="h-64 w-full md:w-80" alt="suite room image">
+            <img src="https://drive.google.com/uc?id=1B705gbf2iIHP2FAIbGIr9a8Eb5WSWOL7" class="h-64 w-full md:w-80" alt="suite room image">
             <p class="text-center">
               Suite
             </p>
@@ -93,19 +93,19 @@
     </p>
     <div class="flex flex-col gap-5 md:flex-row my-5">
       <div class="md:w-1/3">
-        <img src="/src/assets/spa.jpg" class="h-64 w-96 md:w-80" alt="">
+        <img src="https://drive.google.com/uc?id=1LTCSHgC6cHhXoddSPCtnytQ0q_eS6HOG" class="h-64 w-96 md:w-80" alt="">
         <p class="text-center">
           Spa
         </p>
       </div>
       <div class="md:w-1/3">
-        <img src="/src/assets/suite.jpg" class="h-64 w-full md:w-80" alt="">
+        <img src="https://drive.google.com/uc?id=1xp7XqWkJSt_ei6HBOzu7j6bL1iqUTRGP" class="h-64 w-full md:w-80" alt="">
         <p class="text-center">
           Swimming Pool
         </p>
       </div>
       <div class="md:w-1/3">
-        <img src="/src/assets/golf.jpg" class="h-64 w-full md:w-80" alt="">
+        <img src="https://drive.google.com/uc?id=1dH0Np1arp-D6Rfel96d_GwZ5CmHAUISa" class="h-64 w-full md:w-80" alt="">
         <p class="text-center">
           Golf Course
         </p>
