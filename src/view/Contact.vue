@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <section class="bg-[url('/src/assets/contact.jpg')] bg-cover bg-center bg-no-repeat text-white">
+    <section class="bg-[url('https://drive.google.com/uc?id=1qiNiL2bs5U-QF4ce9S47mJd_ZZlbPaik')] bg-cover bg-center bg-no-repeat text-white">
       <div class="px-14 md:px-20 py-56 animate-pulse">
         <h2 class="text-4xl md:text-5xl font-['Playfair'] font-semibold">
           We Are Always Here
@@ -13,7 +13,7 @@
         </p>
       </div>
     </section>
-    <section class="p-14 md:p-20">
+    <section class="py-14 px-8 md:p-20">
       <h2 class="text-3xl font-semibold mb-5">
         Contact
       </h2>
