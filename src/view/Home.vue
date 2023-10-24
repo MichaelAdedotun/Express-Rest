@@ -3,8 +3,8 @@
 </script>
 
 <template>
-      <section class="bg-[url('https://drive.google.com/uc?id=1ePUphcXYkdYUQ5rsM_EI8eQSyQrERRd8')] bg-cover bg-center bg-no-repeat text-white">
-        <div class="px-12 md:px-20 py-56 animate-pulse">
+      <section class="bg-[url('/src/assets/express.jpg')] bg-cover bg-center bg-no-repeat bg-blend-overlay bg-gray-600 text-white">
+        <div class="px-12 md:px-20 py-56 animate-[pulse_5s_linear_infinite]">
           <h2 class="text-3xl md:text-4xl font-['Playfair'] font-light">
             Welcome To <br>
             <span class="text-4xl md:text-5xl font-semibold">
