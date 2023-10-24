@@ -3,8 +3,8 @@
 </script>
 
 <template>
-  <section class="bg-[url('https://drive.google.com/uc?id=1xbVDCFqeJiTS-j5QoQWQRpknlHOtZsNT')] bg-cover bg-center bg-no-repeat text-white">
-    <div class="px-14 md:px-20 py-56 animate-pulse">
+  <section class="bg-[url('https://drive.google.com/uc?id=1xbVDCFqeJiTS-j5QoQWQRpknlHOtZsNT')] bg-cover bg-center bg-no-repeat bg-blend-overlay bg-gray-700 text-white">
+    <div class="px-14 md:px-20 py-56 animate-[pulse_5s_linear_infinite]">
       <h2 class="text-4xl md:text-5xl font-['Playfair'] font-semibold">
         The Best Facilities <br>
         You Can Get Around
