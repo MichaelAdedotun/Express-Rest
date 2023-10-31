@@ -26,7 +26,7 @@
       </p>
     </div>
 
-    <div class="grid gap-8 md:gap-4 xl:gap-6 md:grid-cols-3">
+    <div class="flex justify-center flex-wrap gap-5">
       <div class="bg-white shadow-lg">
         <img src="https://drive.google.com/uc?id=1tdbnPuyXRVinvvKtlAhvEXPs3NMZgQLL" class="w-full md:h-64" alt="">
         <div class="p-5 xl:p-8">
@@ -226,7 +226,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=1BlkOL-xcrOtlh_KpzXwdZaCmcJpD9VG6" class="w-full h-52 md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1BlkOL-xcrOtlh_KpzXwdZaCmcJpD9VG6" class="w-96 h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Emerald</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -283,7 +283,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=1wLiCwwHKEsMm34Yo1Z8AerW14TTdoGr1" class="w-full h-52 md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1wLiCwwHKEsMm34Yo1Z8AerW14TTdoGr1" class="w-96 h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Supreme</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -358,7 +358,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=1gWyD8sFIf2p4X74AfcTJ_uZ2lgkO3xPf" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1gWyD8sFIf2p4X74AfcTJ_uZ2lgkO3xPf" class="w-full h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Deluxe</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -442,7 +442,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=1REdR3ICo1pPdfFniILnvLZGXOdabTxFY" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1REdR3ICo1pPdfFniILnvLZGXOdabTxFY" class="w-full h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Club Suite</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -499,7 +499,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=1xaPVpiwRayTpVXcQJUYj6D6KKfsFE-dg" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1xaPVpiwRayTpVXcQJUYj6D6KKfsFE-dg" class="w-full h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Executive Suite</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -583,7 +583,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=11AKn46sOYE5qEKdaFwikxMY2LY7qSMKS" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=11AKn46sOYE5qEKdaFwikxMY2LY7qSMKS" class="w-full h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Diplomatic Suite</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
