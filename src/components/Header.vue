@@ -57,33 +57,33 @@
        </nav>
      </header>
 
-     <div class="fixed bg-nav text-book-now w-screen z-10" v-if="option">
+     <div class="fixed bg-nav text-book-now w-screen z-10" v-show="option">
        <ul class="p-8
                   md:hidden
                 "
        >
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/" class="hover:text-white">
+           <router-link to="/" class="hover:text-white" @click="close()">
              Home
            </router-link>
          </li>
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/" class="hover:text-white">
+           <router-link to="/" class="hover:text-white" @click="close()">
              About Us
            </router-link>
          </li>
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/rooms" class="hover:text-white">
+           <router-link to="/rooms" class="hover:text-white" @click="close()">
              Rooms
            </router-link>
          </li>
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/facilities" class="hover:text-white">
+           <router-link to="/facilities" class="hover:text-white" @click="close()">
              Facilities
            </router-link>
          </li>
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/contact" class="hover:text-white">
+           <router-link to="/contact" class="hover:text-white" @click="close()">
              Contact
            </router-link>
          </li>
@@ -105,8 +105,12 @@ export default {
 
   methods: {
       open(){
-        this.option = ! this.option
+        this.option = true
+      },
+      close(){
+        this.option = false
       }
+
   }
 }
 </script>
