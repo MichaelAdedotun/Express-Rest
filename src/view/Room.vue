@@ -28,7 +28,7 @@
 
     <div class="flex justify-center flex-wrap gap-5">
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=1tdbnPuyXRVinvvKtlAhvEXPs3NMZgQLL" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1tdbnPuyXRVinvvKtlAhvEXPs3NMZgQLL" class="w-96 md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Basic</h2>
           <ul class="my-5">
@@ -76,7 +76,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=12FsyqWyf9Rgi3tu0HLSQfhSsSGWGyJh3" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=12FsyqWyf9Rgi3tu0HLSQfhSsSGWGyJh3" class="w-96 md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Standard</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
@@ -160,7 +160,7 @@
         </div>
       </div>
       <div class="bg-white shadow-lg">
-        <img src="https://drive.google.com/uc?id=1UHkY0-vzm8Or6lr744zpbUM3a5-nkokj" class="w-full md:h-64" alt="">
+        <img src="https://drive.google.com/uc?id=1UHkY0-vzm8Or6lr744zpbUM3a5-nkokj" class="w-96 md:h-64" alt="">
         <div class="p-5 xl:p-8">
           <h2 class="text-3xl">Classic</h2>
           <ul class="my-5 grid grid-rows-3 grid-flow-col">
