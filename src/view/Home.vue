@@ -15,9 +15,9 @@
       </section>
 
 <!--About us section-->
-      <section class="flex flex-col-reverse gap-20 h-full md:gap-16 text-nav px-8 py-10 md:p-16 md:flex-row lg:p-20">
+      <section id="about" class="flex flex-col-reverse gap-20 h-full md:gap-16 text-nav px-8 py-10 md:p-16 md:flex-row lg:p-20">
         <div class="w-full md:w-1/2">
-          <img src="https://drive.google.com/uc?id=1mbKSq45u6MFkKBcNKg--dhbZxni7mbUG" class="h-full" alt="about image">
+          <img src="/src/assets/about.jpg" class="h-full" alt="about image">
         </div>
         <div class="md:w-1/2">
           <h2 class="mb-10 text-5xl font-['Lexend Deca'] font-semibold md:mb-5 md:text-4xl xl:text-5xl xl:mb-10">
@@ -57,26 +57,26 @@
         </p>
         <div class="flex flex-col gap-5 items-start md:flex-row my-4">
           <div class="w-full md:w-1/3">
-            <img src="https://drive.google.com/uc?id=1dzUcc4unvHEbMy-dTptRiEXEuZL1mbJA" class="h-64 w-full md:w-80" alt="single room image">
+            <img src="/src/assets/single-room.jpg" class="h-64 w-full md:w-80" alt="single room image">
             <p class="text-center">
               Single Room
             </p>
           </div>
           <div class="w-full md:w-1/3">
-            <img src="https://drive.google.com/uc?id=1-RzqSk5qWJ3tf097gIPm3jGrU8uuxRxy" class="h-64 w-full md:w-80" alt="double room image">
+            <img src="/src/assets/double-room.jpg" class="h-64 w-full md:w-80" alt="double room image">
             <p class="text-center">
               Double Room
             </p>
           </div>
           <div class="w-full md:w-1/3">
-            <img src="https://drive.google.com/uc?id=1B705gbf2iIHP2FAIbGIr9a8Eb5WSWOL7" class="h-64 w-full md:w-80" alt="suite room image">
+            <img src="/src/assets/suite.jpg" class="h-64 w-full md:w-80" alt="suite room image">
             <p class="text-center">
               Suite
             </p>
           </div>
         </div>
         <button class="bg-button py-2 px-6 mt-5">
-          <router-link to="" class="text-white rounded-sm text-sm">
+          <router-link to="/rooms" class="text-white rounded-sm text-sm">
             View All
           </router-link>
         </button>
@@ -93,26 +93,26 @@
     </p>
     <div class="flex flex-col gap-5 md:flex-row my-5">
       <div class="md:w-1/3">
-        <img src="https://drive.google.com/uc?id=1LTCSHgC6cHhXoddSPCtnytQ0q_eS6HOG" class="h-64 w-96 md:w-80" alt="">
+        <img src="/src/assets/spa.jpg" class="h-64 w-96 md:w-80" alt="">
         <p class="text-center">
           Spa
         </p>
       </div>
       <div class="md:w-1/3">
-        <img src="https://drive.google.com/uc?id=1xp7XqWkJSt_ei6HBOzu7j6bL1iqUTRGP" class="h-64 w-full md:w-80" alt="">
+        <img src="/src/assets/pool.jpg" class="h-64 w-full md:w-80" alt="">
         <p class="text-center">
           Swimming Pool
         </p>
       </div>
       <div class="md:w-1/3">
-        <img src="https://drive.google.com/uc?id=1dH0Np1arp-D6Rfel96d_GwZ5CmHAUISa" class="h-64 w-full md:w-80" alt="">
+        <img src="/src/assets/golf.jpg" class="h-64 w-full md:w-80" alt="">
         <p class="text-center">
           Golf Course
         </p>
       </div>
     </div>
     <button class="bg-button py-2 px-6 mt-5">
-      <router-link to="" class="text-white rounded-sm text-sm">
+      <router-link to="/facilities" class="text-white rounded-sm text-sm">
         View All
       </router-link>
     </button>
