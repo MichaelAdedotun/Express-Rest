@@ -25,11 +25,6 @@
              </router-link>
            </li>
            <li class="md:mr-10">
-             <router-link to="/" class="hover:text-white hover:border-b hover:pb-0.5">
-               About Us
-             </router-link>
-           </li>
-           <li class="md:mr-10">
              <router-link to="/rooms" class="hover:text-white hover:border-b hover:pb-0.5">
                Rooms
              </router-link>
@@ -65,11 +60,6 @@
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
            <router-link to="/" class="hover:text-white" @click="close()">
              Home
-           </router-link>
-         </li>
-         <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
-           <router-link to="/" class="hover:text-white" @click="close()">
-             About Us
            </router-link>
          </li>
          <li class="pl-5 pb-3 border-b border-b-gray-700 mb-3">
